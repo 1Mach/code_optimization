@@ -5,3 +5,4 @@ Git tracks changes.
 Git tracks changes of files.
 Stupid boss.
 Creating a new branch is quick.
+Rubbish!
